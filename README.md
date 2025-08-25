@@ -19,3 +19,4 @@ I paid close attention to how users would interact with the system. Since the ga
 **My Design Approach**
 I approached software design by combining research, analysis, and real-world examples. I considered scalability, cost, and usability equally. In the future, I would use this same structured approach but also incorporate more early-stage prototyping and user feedback loops. This would ensure that the design evolves alongside real user requirements.
 
+[Final Software Design Document](./CS 230 Project Software Design.pdf)
